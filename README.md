@@ -78,7 +78,7 @@ Tables were automatically joined by creating relationships with them, Power BI d
 ## Data Analysis and Visualization:
 
 Several expressions and functions were made to arrive at the desired KPI or Metrics.
-I arrived at a report with a single dashboard consisting of different visuals such as bar chart, doughnut chart, line chart, slicer, and KPIs, and a report giving the summary of the insights gained into the company's performance.
+I arrived at a report with a single dashboard consisting of different visuals such as bar chart, doughnut chart, line chart, slicer, and KPIs, giving the summary of the insights gained into the company's performance.
 
 ## Features of the Report:
 The dashboard conveys information about the following key areas:
@@ -124,7 +124,7 @@ Summary of the insights gained into the company's performance:
 
 - There are no doubts that the business is performing well as there are potential leads within the company yielding higher returns.
 
-- The grains and cereals subcategories are not doing much in sales. Strategies to increase the sales should be made like "discounted bundle-selling" where for any purchase of beverages which happens to be the product with the highest revenue, grains and cereals will be added as an offer in addition to the beverages but at a discounted price which will be cheaper compared to when they are buying the grains or cereals as a stand-alone product.
+- The grains and cereals subcategories are not doing much in sales. Strategies to increase the sales should be made like "discounted bundle-selling" where for any purchase of beverages which happens to be the product with the highest revenue, grains or cereals will be added as an offer in addition to the beverages but at a discounted price which will be cheaper compared to when they are buying the grains or cereals as a stand-alone product.
 
  - Use database to gather customer feedback to get their experiences about the product or services. This information can be used to identify areas for improvement.
 
