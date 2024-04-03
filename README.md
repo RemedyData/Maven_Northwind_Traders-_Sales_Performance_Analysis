@@ -45,22 +45,22 @@ The tables and views are:
 - General dataset
  ![image](https://github.com/RemedyData/Maven_Northwind_Traders-_Sales_Performance_Analysis/assets/137626163/4415e3eb-a839-417e-84d9-e5cc3f6497ea)
 
-- Shippers
+- Shippers Table
  ![image](https://github.com/RemedyData/Maven_Northwind_Traders-_Sales_Performance_Analysis/assets/137626163/87baab31-3a8f-45b0-bcd6-abcf804746ae)
 
-- Products
+- Products Table
   ![image](https://github.com/RemedyData/Maven_Northwind_Traders-_Sales_Performance_Analysis/assets/137626163/df5ef89b-03e0-4fbe-b5ec-697662307981)
 
-- Orders
+- Orders Table
   ![image](https://github.com/RemedyData/Maven_Northwind_Traders-_Sales_Performance_Analysis/assets/137626163/44b1f371-9a75-47ad-bb2f-182085a69b1a)
 
-- Order_details
+- Order_details Table
   ![image](https://github.com/RemedyData/Maven_Northwind_Traders-_Sales_Performance_Analysis/assets/137626163/8c098d0c-7f1e-4dd4-b03b-e191bc67ecc4)
 
-- Employees
+- Employees Table
   ![image](https://github.com/RemedyData/Maven_Northwind_Traders-_Sales_Performance_Analysis/assets/137626163/42db2c3c-acbd-4e31-a1b4-c3fafc4b3a4c)
 
-- Categories
+- Categories Table
   ![image](https://github.com/RemedyData/Maven_Northwind_Traders-_Sales_Performance_Analysis/assets/137626163/36549d49-d8dc-4385-b278-aa7bbce1f684)
 
 I transformed the data in Power Query, checked for Column quality, consistent or appropriate data types.
