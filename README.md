@@ -33,6 +33,6 @@ The goal of this analysis is to:
    ---
   ## Data Source:
   
-The data for the work is gotten from Maven Analytics while its original source is from Microsoft licensed by Public Domain. It consist of 2,985 records and 28 fields of data. I studied the dataset well and its attached dictionary   
+The data for the work is gotten from Maven Analytics while its original source is from Microsoft licensed by Public Domain. It consist of 2,985 records and 28 fields of data. I studied the dataset well and its attached dictionary to gain proper insight into the dataset. You can find a link to download the dataset [here:](https://mavenanalytics.io/challenges/maven-northwind-challenge/24)
 
    ---
