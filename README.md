@@ -13,7 +13,7 @@ This is an analysis of the sales performance of Northwind Traders. It is done by
 
 The goal of this analysis is to:
 
-- Determine noticable sales trends over time
+- Determine noticeable sales trends over time
 - Know which are the best and worst selling products
 - Identify the company's key customers
 - Determine shipping costs across providers
@@ -139,6 +139,6 @@ Summary of the insights gained into the company's performance:
 
 ### Thank you for reading.
 
-I am open for entry-level data anlalyst role.
+I am open for data anlalyst role.
 
 Let us have discussion about your company and industry now!
